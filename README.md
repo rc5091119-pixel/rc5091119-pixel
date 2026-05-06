@@ -34,8 +34,8 @@ Automated RSS feed processor with scheduled workers and efficient data handling.
 
 ## 📫 Connect with Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: (add your link here)
+* GitHub: https://github.com/rc5091119-pixel
+* LinkedIn: https://www.linkedin.com/in/ravindra-backend
 
 ---
 
