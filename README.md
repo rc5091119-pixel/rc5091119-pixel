@@ -5,10 +5,10 @@
 I'm a B.Tech student at **NIT Agartala** focused on building scalable, reliable backend systems and AI-powered applications.
 
 - 🔧 Building backend systems with **Golang, PostgreSQL, REST APIs, WebSockets, JWT and Docker**
-- 🏢 Currently working as a **Full Stack Intern at NIC (National Informatics Centre)**
+- 🏢 Completed a **Full Stack Intern at NIC (National Informatics Centre)**
 - 🤖 Exploring **GenAI, LangChain, LangGraph and LLM-powered backend applications**
 - 🚀 Interested in **Backend Engineering, Distributed Systems and System Design**
-- 🧠 Solved **600+ DSA problems on LeetCode**
+- 🧠 Solved **400+ DSA problems on LeetCode**
 - 📍 NIT Agartala | B.Tech | ECE | GPA: 8.72/10
 
 ---
@@ -108,7 +108,7 @@ I enjoy working on problems where **backend engineering meets real-world complex
 
 ## 🧠 Problem Solving
 
-**600+ DSA problems solved on LeetCode**
+**400+ DSA problems solved on LeetCode**
 
 Strong areas include:
 
